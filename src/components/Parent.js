@@ -14,7 +14,7 @@ const Parent = ()=>{
             />
             }
             {
-            isLoggedIn && <p>You are logged in !</p>
+            isLoggedIn && <p>You are logged in!</p>
             }
         </div>
     )
